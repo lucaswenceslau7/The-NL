@@ -1,0 +1,108 @@
+
+*{
+    background-color: #DBDBDB;
+    
+  }
+
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color:#CFCFCF;
+    color: #4E4E4E;
+    border:solid 2px black;
+    cursor: pointer;
+  }
+
+  input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color:#CFCFCF;
+    color: #4E4E4E;
+    border:solid 2px black;
+    cursor: pointer;
+  }
+
+  
+  input[type="date"] {
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color:#CFCFCF;
+    color: #4E4E4E;
+    border:solid 2px black;
+    cursor: pointer;
+  }
+
+
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color:#CFCFCF;
+    color: #4E4E4E;
+    border:solid 2px black;
+    cursor: pointer;
+  }
+
+  h1{
+    text-align: center;
+    margin-bottom: 5%;
+
+  }
+
+
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+  body{
+    background-position: top center;
+
+
+  }
+
+  .p1{
+    margin-left: 12;
+    margin-right: auto;
+    width: 25em;
+    text-align: left;
+    text-shadow: 5px,5px,5px #4E4E4E;
+  }
+  .p2{
+    margin-left: auto;
+    margin-right: 12;
+    width: 27em;
+    text-align: left;
+    text-shadow: 5px,5px,5px #4E4E4E;
+
+}
+
+  .p3{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
+    text-align: center;
+    text-shadow: 5px,5px,5px #4E4E4E;
+
+  }
+
+  .pc{
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
+    text-align: center;
+    text-align: center;
+    text-shadow: 5px,5px,5px #4E4E4E;
+
+
+  }
